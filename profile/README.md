@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/723px-Kubernetes_logo_without_workmark.svg.png" width="200"><br>
+<img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" width="200"><br>
 
 <a href="https://software-apps-osx.github.io/.github/kubernetes">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
